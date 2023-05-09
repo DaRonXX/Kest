@@ -12,7 +12,7 @@ til að setja notandann í rétta hópana notar þú skipunina "usermod" eins og
 
 út af því Erlendur og Erla eru ekki byrjuð að vinna þá þarft þú að virka aðganga þeirra þegar þau koma þú getur gert það með því að breyta stillingum í skránni "sshd_config" til að opna skrána notar þú skipunina
 
-> ### "sudo nano /etc/ssh/sshd_config
+> ### sudo nano /etc/ssh/sshd_config
 
 leitaðu að línu sem byrjar á "AllowUsers" og bættu við notendurna erlu og erlendur með:
 
