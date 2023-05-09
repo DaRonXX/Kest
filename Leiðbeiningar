@@ -1,3 +1,10 @@
 til að búa til nýa notendur í Linux og setja þá up og í rétta hópa er hægt að.
 
 fyrst skaltu búa til notandan með skipunina adduser í terminalið ef þú vilt búa til notanda sem heitir Robert skaltu slá inn eftirfarandi skipun:
+
+
+
+
+sudo passwd -u erlendur
+
+sudo passwd -u erla
