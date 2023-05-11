@@ -29,3 +29,12 @@ Daníel Aron
 3. næsta dag setti ég réttindi á notenduna og læsti suma notendur og notað --expire til að hækt sé að breytta lykilorðin
 
 4. ég fór yfir allt sem ég var búin að gera og passaði að ekkert vantaði 
+
+
+
+# __Skjáskot__
+
+![Alt text](https://github.com/DaRonXX/Kest/blob/main/Screenshot%20from%202023-05-11%2015-43-47.png)
+![Alt text](https://github.com/DaRonXX/Kest/blob/main/Screenshot%20from%202023-05-11%2016-12-46.png)
+![Alt text](https://github.com/DaRonXX/Kest/blob/main/Screenshot%20from%202023-05-11%2016-13-51.png)
+![Alt text](https://github.com/DaRonXX/Kest/blob/main/Screenshot%20from%202023-05-11%2016-13-37.png)
