@@ -10,7 +10,7 @@ til að setja notandann í rétta hópana notar þú skipunina "usermod" eins og
 
 > ### sudo usermod -a -G forritun Robert
 
-út af því Erlendur og Erla eru ekki byrjuð að vinna þá þarft þú að virka aðganga þeirra þegar þau koma þú getur gert það með því að breyta stillingum í skránni "sshd_config" til að opna skrána notar þú skipunina
+út af því Erlendur og Erla eru ekki byrjuð að vinna þá þarft þú að virka aðganga þeirra þegar þau koma þú getur gert það með því að bara nota þessar skipunir. 
 
 > ### sudo passwd -u erlendur
 > ### sudo passwd -u erla
