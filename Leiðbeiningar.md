@@ -18,3 +18,14 @@ til að setja notandann í rétta hópana notar þú skipunina "usermod" eins og
 Kveja
 
 Daníel Aron
+
+
+# __Dagbók__
+
+1. fyrstu 2 dagana var ég að setta up linux virtualbox 
+
+2. næsta dag bjó ég til hópana, nótenduna og möppurnar 
+
+3. næsta dag setti ég réttindi á notenduna og læsti suma notendur og notað --expire til að hækt sé að breytta lykilorðin
+
+4. ég fór yfir allt sem ég var búin að gera og passaði að ekkert vantaði 
